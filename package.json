@@ -1,0 +1,20 @@
+{
+  "name": "mathcraft-calculator",
+  "version": "1.0.0",
+  "description": "we create simple calculator with Typescript, node.js & inquirer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "keywords": [],
+  "author": "Areeba Bano",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
